@@ -1,0 +1,38 @@
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.exe
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.deps.json
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.runtimeconfig.json
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.runtimeconfig.dev.json
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.dll
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.pdb
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.Views.dll
+D:\Program\project\Book Store\Book Store\bin\Debug\netcoreapp3.1\Book Store.Views.pdb
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.csproj.AssemblyReference.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.AssemblyInfoInputs.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.AssemblyInfo.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.csproj.CoreCompileInputs.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.MvcApplicationPartsAssemblyInfo.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorAssemblyInfo.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorAssemblyInfo.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\staticwebassets\Book Store.StaticWebAssets.Manifest.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\staticwebassets\Book Store.StaticWebAssets.xml
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\scopedcss\bundle\Book Store.styles.css
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.TagHelpers.input.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.TagHelpers.output.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorCoreGenerate.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorTargetAssemblyInfo.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorTargetAssemblyInfo.cs
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.Views.pdb
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.dll
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.pdb
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.genruntimeconfig.cache
+D:\Program\project\Book Store\Book Store\obj\Debug\netcoreapp3.1\Book Store.csproj.CopyComplete
